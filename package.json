@@ -1,7 +1,6 @@
 {
-  "name": "IoT-driven-blockchain-platform-for-drug-supply-chain-transparency",
+  "name": "iot-driven-blockchain-platform-for-drug-supply-chain-transparency",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:aswinr19/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency.git",
   "author": "aswinr <aswinr019@gmail.com>",
   "license": "MIT",

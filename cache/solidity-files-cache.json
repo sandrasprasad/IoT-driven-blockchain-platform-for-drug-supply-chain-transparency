@@ -1,0 +1,269 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Rolable.sol": {
+      "lastModificationDate": 1701616965670,
+      "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+      "sourceName": "contracts/AccessControl/Rolable.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Roles/Consumer.sol": {
+      "lastModificationDate": 1701616506572,
+      "contentHash": "a216639ef910a05bb18ae88bbec2883c",
+      "sourceName": "contracts/AccessControl/Roles/Consumer.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Roles/Designer.sol": {
+      "lastModificationDate": 1701616508556,
+      "contentHash": "a216639ef910a05bb18ae88bbec2883c",
+      "sourceName": "contracts/AccessControl/Roles/Designer.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Roles/Distributor.sol": {
+      "lastModificationDate": 1701616510054,
+      "contentHash": "a216639ef910a05bb18ae88bbec2883c",
+      "sourceName": "contracts/AccessControl/Roles/Distributor.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Roles/Manufacturer.sol": {
+      "lastModificationDate": 1701616512233,
+      "contentHash": "a216639ef910a05bb18ae88bbec2883c",
+      "sourceName": "contracts/AccessControl/Roles/Manufacturer.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Roles/Regulator.sol": {
+      "lastModificationDate": 1701616513793,
+      "contentHash": "a216639ef910a05bb18ae88bbec2883c",
+      "sourceName": "contracts/AccessControl/Roles/Regulator.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/AccessControl/Roles/Retailer.sol": {
+      "lastModificationDate": 1701616517335,
+      "contentHash": "a216639ef910a05bb18ae88bbec2883c",
+      "sourceName": "contracts/AccessControl/Roles/Retailer.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": []
+    },
+    "/home/aswinr/Documents/IoT-driven-blockchain-platform-for-drug-supply-chain-transparency/contracts/Lock.sol": {
+      "lastModificationDate": 1701615378072,
+      "contentHash": "ae66265769cc28ebdaa34881df95bc5e",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
